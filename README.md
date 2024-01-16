@@ -1,16 +1,7 @@
-# flutter_designer_app
+# FLUTTER DEVICE PREVIEW APP
 
-A new Flutter project.
+##Packages used are material.dart, services.dart,device_preview.dart
 
-## Getting Started
+# MaterialApp, the root of  widget tree, is wrapped with DevicePreview.appBuilder. This enables the Device Preview feature for our app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#It leverages the Device Preview package to streamline the testing process across various devices during development.
